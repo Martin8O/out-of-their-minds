@@ -1,0 +1,19 @@
+# Private working area — session state, planning, the client brief, scratch. Never committed.
+Local/
+
+# Local machine settings
+.claude/settings.local.json
+
+# Build output (P3)
+build/
+dist/
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+
+# Python bytecode
+__pycache__/
+*.pyc
