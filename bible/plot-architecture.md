@@ -1,6 +1,6 @@
 # plot-architecture — «Не в своём уме»
 
-> The book as four parts → sequences → 33 chapters (cards: `chapter-grid.md`). Theme: *любовь
+> The book as four parts → sequences → 34 chapters (cards: `chapter-grid.md`). Theme: *любовь
 > возможна не благодаря совершенству, а благодаря уязвимости* — never spoken aloud in prose.
 
 ## 0. The three comedy machines (design law)
@@ -43,7 +43,7 @@ finish line is intimacy, not counterspell.
 **Gate out:** protectiveness → shared vulnerability; both know what the cure requires and both
 are terrified for the same reason: it demands being fully known.
 
-### Part IV «Своими ногами» — ch 27–33 (August)
+### Part IV «Своими ногами» — ch 27–34 (August)
 **Question: will they choose each other with nothing left hidden?**
 The failed staged completion (вверить ≠ признаться); Manchester wakes swapped; her affair
 entrusted; his pension entrusted; the first clean Patronus; Ron's grace, Harry's file; the
@@ -67,7 +67,7 @@ RACE + REVERSAL REVEAL (22–26): signatures die; hearing; Narcissa's commentary
 broken.
 THE RACE (27–31): failed staging; the deadline arithmetic; two entrustings; the ratifying magic;
 completion at one hearth.
-RESOLUTION (32–33): LIFO unwind; custody; the letter that always knew; the tango.
+RESOLUTION (32–34): the night in their own bodies; LIFO unwind; custody; the letter that always knew; the tango.
 
 ## 3. Running jokes (each evolves; at least one detonates as tenderness)
 
@@ -75,12 +75,12 @@ RESOLUTION (32–33): LIFO unwind; custody; the letter that always knew; the tan
 |---|---|---|
 | RJ1 | **Второй кусок лимонного пирога** — Narcissa's one impossible observation per tea | near-exposure comedy → she always knew; testimony ch26; "the woman who listened" |
 | RJ2 | **Список Гарри** — the deadpan evidence log | items surface at the worst moments → item 28 at the tango: «Она счастлива. Дело закрыто.» |
-| RJ3 | **Война планеров** — sarcastic marginalia in her planner ↔ his ledgers | accidental correspondence → the owl reads «вторник: не смотреть, как он смеётся» aloud (ch22) → the planners were the love letters; the last card: **«Веди»** (ch33) |
+| RJ3 | **Война планеров** — sarcastic marginalia in her planner ↔ his ledgers | accidental correspondence → the owl reads «вторник: не смотреть, как он смеётся» aloud (ch22) → the planners were the love letters; the last card: **«Веди»** (ch34) |
 | RJ4 | **Экономика Оскара** — everything already "arranged" | → three galleons and a Dumbledore card offered to the Wizengamot «на взятку» (ch25) |
 | RJ5 | **Патронусы-почтальоны** — wrong shape, wrong voice | escalating absurdity → the first CLEAN otter in her true voice (ch29) — the reader knows before the characters |
 | RJ6 | **Аббревиатура, которую не забыли** — the Ministry still savours ГАВНЭ | he delivers her elf-rights position from memory better than she dares (ch13) → her finding his annotated 2003 pamphlet, marginalia in his real hand (ch30): the oldest evidence of the oldest secret |
-| RJ7 | **Досье Пэнси** — a dossier on everyone | bride-candidate files vs Narcissa's → the last dossier: «Гермиона Грейнджер», one page, eleven years of his own unprompted words (ch33) |
-| RJ8 | **Живоглот не ошибается** — the cat hisses at the wrong body | soul-detector comedy → settles on real-Draco's lap beside her (ch32): certification |
+| RJ7 | **Досье Пэнси** — a dossier on everyone | bride-candidate files vs Narcissa's → the last dossier: «Гермиона Грейнджер», one page, eleven years of his own unprompted words (ch34) |
+| RJ8 | **Живоглот не ошибается** — the cat hisses at the wrong body | soul-detector comedy → settles on real-Draco's lap beside her (ch33): certification |
 
 ## 4. Set pieces (minimum four full comic set pieces — gridded)
 
@@ -95,9 +95,9 @@ RESOLUTION (32–33): LIFO unwind; custody; the letter that always knew; the tan
 ## 5. Intimacy architecture (18+, per brief; binding)
 
 - Balance across the book: **60–70 %** interiority/longing · **20–35 %** tension, proximity,
-  touches, kisses · explicit — **ONE full scene**, at the head of ch32 (first night in their own
+  touches, kisses · explicit — **ONE full scene**, ch32 «Опись не сходится», the whole private chapter (first night in their own
   bodies, built on a funny-tender misunderstanding: each knows the other's body from the *inside*,
-  neither knows it from here), plus the tango night (ch33), where the curtain falls with the
+  neither knows it from here, and a second, freer movement before dawn), plus the tango night (ch34), where the curtain falls with the
   needle. The design carded two; the book delivers one and a closed curtain — see **ADR-009**
   for the reasoning and the accepted deviation from the brief's ~10 %.
 - Physical intimacy only in their own bodies — the swap builds intimacy through lives.

@@ -48,7 +48,7 @@ Details: `Local/all prompts.md` · standard: `Local/Prompts requirements.md`.
 ## Conventions
 - Chapters: `manuscript/chNN-slug.md` with YAML front-matter
   `chapter, title, pov, date_in_story, target_words, plants, payoffs, status`.
-  Bands: target 2.7–3.4k, hard 2.4–3.8k words (≈33 chapters × ~3.0k ≈ 100k).
+  Bands: target 2.7–3.4k, hard 2.4–3.8k words (34 chapters ≈ 105k).
 - POV: close 3rd past, one head per scene, dual leads (Draco/Hermione alternating; grid decides).
 - Registers per `bible/style-guide.md` (authored in Russian, IS the gate's config).
 - Probes/experiments → `Local/scratch/` only, never committed, never reused verbatim.
