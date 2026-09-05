@@ -52,6 +52,9 @@ THRESHOLDS = {
     "chapter_target": (2700, 3400),   # target band -> warn outside
     "book_band": (90000, 110000),     # brief: 90-110k words
     "latin_leak_warn": 3,             # non-whitelisted Latin tokens per chapter
+    "inst_warn": 7.0,                 # style-guide 0.1: per 1000 words
+    "inst_rewrite": 11.0,             # 0.1: chapter must be rewritten
+    "pov_metaphor_gap": 0.40,         # 0.2: min divergence between the two heads
 }
 
 WORD_RE = re.compile(r"[А-Яа-яЁёA-Za-z]+(?:-[А-Яа-яЁёA-Za-z]+)*")
@@ -94,13 +97,16 @@ def parse_guide_lists(text: str) -> dict[str, list[str]]:
     """Parse `### 8.N <name>` subsections into named bullet lists.
 
     Bullet format: `- item` or `- item → replacement` (item = text before →).
-    Returns keys: forbidden_lexicon, banned_tics, said_bookisms, latin_whitelist.
+    Returns keys: forbidden_lexicon, banned_tics, said_bookisms, latin_whitelist,
+    institutional_lexicon (§0.1), ledger_metaphor (§0.2).
     """
     keymap = {
         "8.1": "forbidden_lexicon",
         "8.2": "banned_tics",
         "8.3": "said_bookisms",
         "8.4": "latin_whitelist",
+        "8.5": "institutional_lexicon",
+        "8.6": "ledger_metaphor",
     }
     lists: dict[str, list[str]] = {v: [] for v in keymap.values()}
     current: str | None = None
@@ -281,6 +287,15 @@ def check_chapter(path_name: str, text: str, guide: dict[str, list[str]],
     prose = "\n".join(narration_lines(body))
     low = prose.lower()
 
+    # style-guide 0.1: institutions and paper are the world's furniture, not the
+    # substance a scene's emotional turn is carried on.
+    inst = sum(low.count(k.lower()) for k in guide.get("institutional_lexicon", []))
+    per1k = inst * 1000.0 / max(1, words)
+    if per1k >= THRESHOLDS["inst_rewrite"]:
+        rep.warn(f"{tag}: institutional density {per1k:.1f}/1000 - REWRITE (style-guide 0.1)")
+    elif per1k >= THRESHOLDS["inst_warn"]:
+        rep.warn(f"{tag}: institutional density {per1k:.1f}/1000 (style-guide 0.1)")
+
     for item in guide["forbidden_lexicon"]:
         if item.lower() in low:
             rep.err(f"{tag}: forbidden lexicon '{item}' (Rosman law - see glossary)")
@@ -302,7 +317,10 @@ def check_chapter(path_name: str, text: str, guide: dict[str, list[str]],
         rep.warn(f"{tag}: {len(leaks)} Latin-script tokens in prose "
                  f"(first: {', '.join(leaks[:5])}) - untranslated leak?")
 
-    return {"meta": meta, "ch": ch_no, "words": words}
+    # carried out for the book-level 0.2 test (the two heads' shared instrument)
+    ledger_hits = sum(low.count(k.lower()) for k in guide.get("ledger_metaphor", []))
+    return {"meta": meta, "ch": ch_no, "words": words,
+            "pov": meta.get("pov", ""), "ledger": ledger_hits}
 
 
 # --------------------------------------------------------------------------
@@ -312,6 +330,24 @@ def check_chapter(path_name: str, text: str, guide: dict[str, list[str]],
 def check_book(results: list[dict], grid: dict[int, dict[str, str]],
                ledger: dict[str, dict[str, str]], rep: Report) -> None:
     by_ch = {r["ch"]: r for r in results if r["ch"] is not None}
+
+    # style-guide 0.2: Hermione's instrument is enumeration, Draco's is the
+    # appraiser's eye on OBJECTS. If the counting metaphor is equally dense in
+    # both heads they are one instrument, and the convergence arc (2.3) has
+    # nothing left to spend.
+    dens = {}
+    for who in ("hermione", "draco"):
+        sel = [r for r in results if r.get("pov") == who and r.get("words")]
+        if sel:
+            dens[who] = (sum(r.get("ledger", 0) for r in sel) * 1000.0
+                         / sum(r["words"] for r in sel))
+    if len(dens) == 2 and max(dens.values()) > 0:
+        gap = abs(dens["hermione"] - dens["draco"]) / max(dens.values())
+        if gap < THRESHOLDS["pov_metaphor_gap"]:
+            rep.warn(f"BOOK: the two POVs share one counting instrument - hermione "
+                     f"{dens['hermione']:.2f} vs draco {dens['draco']:.2f} per 1000, "
+                     f"{gap:.0%} apart, need {THRESHOLDS['pov_metaphor_gap']:.0%} "
+                     f"(style-guide 0.2)")
 
     # ledger <-> front-matter sync
     for rid, row in ledger.items():
@@ -447,6 +483,10 @@ def selftest() -> int:
         "banned_tics": ["не мог не"],
         "said_bookisms": ["воскликнул"],
         "latin_whitelist": ["ok"],
+        "institutional_lexicon": ["протокол", "ведомост", "бланк", "реестр", "циркуляр",
+                                  "досье", "расписк", "накладн", "параграф", "министерств",
+                                  "отдел", "заседани"],
+        "ledger_metaphor": ["графа", "гроссбух", "опись"],
     }
     grid = {1: {"title": "Т", "pov": "draco", "date": "2009-05-02", "target": "3000",
                 "plants": "P1", "payoffs": "", "intent": "i", "hook": "h", "status": "planned"}}
@@ -474,6 +514,10 @@ def selftest() -> int:
     run("card pov mirror", fm.replace("pov: draco", "pov: hermione") + prose_ru, "!= card")
     run("plants mirror", fm.replace("plants: [P1]", "plants: []") + prose_ru, "plants")
     run("quote-mark speech", fm + prose_ru + '\n\n"Привет", — сказал он.', "quote marks")
+    run("institutional density (0.1)",
+        fm + prose_ru + ("\nПротокол, ведомость, бланк, реестр, циркуляр, досье, расписка, "
+                         "накладная, параграф, министерство, отдел, заседание. " * 3),
+        "institutional density")
     run("straight quote in prose",
         fm + prose_ru + '\n\nОн прочёл «дар бюро „Наследие"».', "straight quote")
     run("forbidden lexicon", fm + prose_ru + "\nСтарый аврор кивнул.", "forbidden lexicon")
