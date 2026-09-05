@@ -25,7 +25,7 @@
   she is likeable when useless (his friends, his mother, his crew prefer the unguarded her,
   ch10–18) → honesty wave: deflects, hates herself, relapses (ch23) → entrusts the affair (ch28)
   and is not left → owed honesty to Ron (ch30) → learns to follow without disappearing: «Веди»,
-  the tango (ch33). **Cost paid:** hands over control publicly — recuses herself from the case
+  the tango (ch34). **Cost paid:** hands over control publicly — recuses herself from the case
   that could have been her career's crown, and lets a court decide her family.
 
 ### Драко Малфой (28; b. 5 Jun 1980) — POV B
@@ -54,7 +54,7 @@
 - **Arc:** hostility→ performing her life teaches him her weight (ch4–9) → her people become his
   accidental home (ch10–18) → the waves besiege the secret (ch19–26) → entrusts the pension
   expecting the end of everything; is read, not judged (ch29) → writes Mrs Crabbe the truth —
-  cost paid BEFORE her grace arrives (ch32) → leads the tango because she asks him to (ch33).
+  cost paid BEFORE her grace arrives (ch33) → leads the tango because she asks him to (ch34).
 
 **Address arc (binding):** «Грейнджер»/«Малфой» + «вы» → the «ты» shift is ONE deliberate beat
 (ch21, over the children's confession); first-name use per grid; his internal voice says
@@ -111,7 +111,7 @@ handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
 - **Пэнси Паркинсон** — fashion house «Шпилька»; tongue like a paper cut; secretly clothes the
   orphanage. Exiting a marriage of convenience; her arc mirrors Hermione: learning to be loved
   un-usefully. Keeps dossiers on everyone; the LAST dossier — «Гермиона Грейнджер», one page,
-  compiled from eleven years of Draco's unprompted remarks, dated and sourced (ch33). Slow spark
+  compiled from eleven years of Draco's unprompted remarks, dated and sourced (ch34). Slow spark
   with Blaise, sealed at the ball.
 - **Теодор Нотт** — antiquarian bookseller («Нотт, и никого больше»); dead-languages pedant,
   socially allergic; the translation's engine. Feud with the anonymous margin-corrector,
@@ -131,8 +131,8 @@ handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
 - **Живоглот** — Crookshanks, elderly, half-Kneazle, tracks SOULS, not bodies: hisses at
   Hermione's body while Draco is inside it, sleeps on whichever lap actually holds her. The
   book's wordless truth-meter; his final settling on real-Draco's lap certifies the romance
-  before anyone says it (ch32).
+  before anyone says it (ch33).
 - Off-page pressure: **Рита Скитер** (press; no on-page scenes), **Кингсли Бруствер** (Minister),
   **Минерва Макгонагалл** (Hogwarts letters loom for both kids), **миссис Крэбб** (letters only;
-  «Министерство не платит галлеонами чеканки девяносто седьмого года» — ch32), **Джулиан
+  «Министерство не платит галлеонами чеканки девяносто седьмого года» — ch33), **Джулиан
   Хартли** (never on-page; a name and a wound).
