@@ -84,7 +84,7 @@ to remain at one hearth.
   secrets were given and accepted for human reasons. The emotional arc causes the reversal,
   never the other way round. Magic never solves an emotional problem anywhere in this book.
 - **Unwind:** across Britain in reverse order, **last-in-first-out** (reader-chartable elegance,
-  ch31–32); custody paperwork revalidates as handwriting returns.
+  ch31–33); custody paperwork revalidates as handwriting returns.
 
 ## 2. The anomaly waves (canonical order; each mapped to a romance rung)
 

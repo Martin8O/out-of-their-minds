@@ -38,5 +38,6 @@
 | 5 Aug | Draco entrusts the pension; the unread drawer; Harry's file; **first clean otter Patronus** | 29 |
 | 7 Aug | Ron's grace; the pamphlet with his marginalia; Tilly returns the button | 30 |
 | Sat 8 Aug → dawn 9 Aug | one roof, household asleep at the Manor hearth; **completion**; waking in their own bodies; first kiss | 31 |
-| 9–20 Aug | Britain unwinds LIFO; custody granted jointly; Draco's truth-letter to Mrs Crabbe, then her reply; Живоглот's verdict | 32 |
+| Fri 14 Aug | The house empty for the first time since 6 May; the night in their own bodies; the letter to Mrs Crabbe written once and sent | 32 |
+| Sat 15 Aug | Britain unwinds LIFO; the widows' provision entered at Gringotts; the ministry corridor; custody granted jointly; Mrs Crabbe's reply; Живоглот's verdict | 33 |
 | Sat 29 Aug | farewell ball at «Крапивный дом»; «Веди»; the Argentine tango | 33 |
