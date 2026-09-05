@@ -71,7 +71,7 @@ bartering for love he can have free — his life savings (three galleons and a D
 offered to the Wizengamot «на взятку, если нас разлучат» breaks the court's heart (ch25); ends
 as the boy who explains the rules to new kids at the farewell ball — for nothing.
 
-### Матильда «Тилли» Крофт (9; war orphan as an infant) — Draco's girl
+### Матильда «Тилли» Крофт (9; orphaned in infancy, cause unrecorded in her file) — Draco's girl
 Returned by two foster families (violent accidental magic when cornered; bit an adopter).
 **Elective near-mutism with adults** — held rigorously chs 3–20, no convenient speech — fluent
 chatter with Oscar only. Hyperlexic: reads everything, including dead scripts, with eerie

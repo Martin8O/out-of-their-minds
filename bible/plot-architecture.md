@@ -78,7 +78,7 @@ RESOLUTION (32–33): LIFO unwind; custody; the letter that always knew; the tan
 | RJ3 | **Война планеров** — sarcastic marginalia in her planner ↔ his ledgers | accidental correspondence → the owl reads «вторник: не смотреть, как он смеётся» aloud (ch22) → the planners were the love letters; the last card: **«Веди»** (ch33) |
 | RJ4 | **Экономика Оскара** — everything already "arranged" | → three galleons and a Dumbledore card offered to the Wizengamot «на взятку» (ch25) |
 | RJ5 | **Патронусы-почтальоны** — wrong shape, wrong voice | escalating absurdity → the first CLEAN otter in her true voice (ch29) — the reader knows before the characters |
-| RJ6 | **Аббревиатура, которую не забыли** — the Ministry still savours ГАВНЭ | he delivers her elf-rights position from memory better than she dares (ch13) → her finding his annotated 2003 pamphlet, marginalia in his real hand (ch32): the oldest evidence of the oldest secret |
+| RJ6 | **Аббревиатура, которую не забыли** — the Ministry still savours ГАВНЭ | he delivers her elf-rights position from memory better than she dares (ch13) → her finding his annotated 2003 pamphlet, marginalia in his real hand (ch30): the oldest evidence of the oldest secret |
 | RJ7 | **Досье Пэнси** — a dossier on everyone | bride-candidate files vs Narcissa's → the last dossier: «Гермиона Грейнджер», one page, eleven years of his own unprompted words (ch33) |
 | RJ8 | **Живоглот не ошибается** — the cat hisses at the wrong body | soul-detector comedy → settles on real-Draco's lap beside her (ch32): certification |
 
@@ -95,10 +95,12 @@ RESOLUTION (32–33): LIFO unwind; custody; the letter that always knew; the tan
 ## 5. Intimacy architecture (18+, per brief; binding)
 
 - Balance across the book: **60–70 %** interiority/longing · **20–35 %** tension, proximity,
-  touches, kisses · **~10 %** explicit — TWO full scenes: ch31–32 region (first night in their
-  own bodies — built on a funny-tender misunderstanding: each knows the other's body from the
-  *inside*, neither knows it from here) and the tango night (ch33, curtain drawn late).
+  touches, kisses · explicit — **ONE full scene**, at the head of ch32 (first night in their own
+  bodies, built on a funny-tender misunderstanding: each knows the other's body from the *inside*,
+  neither knows it from here), plus the tango night (ch33), where the curtain falls with the
+  needle. The design carded two; the book delivers one and a closed curtain — see **ADR-009**
+  for the reasoning and the accepted deviation from the brief's ~10 %.
 - Physical intimacy only in their own bodies — the swap builds intimacy through lives.
-- First kiss: ch30 (completion eve, own faces returning); the near-kiss farce ch24 (kissing your
+- First kiss: ch31 (the dawn waking in their own bodies, interrupted); the near-kiss farce ch24 (kissing your
   own face problem) is the comic rehearsal.
 - Every intimate beat permanently changes trust/openness/self-acceptance — no fan-service.

@@ -6,7 +6,7 @@ date_in_story: 2009-05-02
 target_words: 3300
 plants: [P18]
 payoffs: []
-status: draft
+status: final
 ---
 
 К десяти вечера в списке на левой ладони оставалось три пункта.

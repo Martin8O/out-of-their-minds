@@ -6,7 +6,7 @@ date_in_story: 2009-07-08
 target_words: 3100
 plants: []
 payoffs: [P5]
-status: draft
+status: final
 ---
 
 В доме, где ключи торчали во всех дверях, за одну ночь научились обходить угол кухонного стола.

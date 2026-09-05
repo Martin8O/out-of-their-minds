@@ -271,6 +271,13 @@ def check_chapter(path_name: str, text: str, guide: dict[str, list[str]],
             rep.err(f"{tag}:{i}: speech opened with quote marks - dialogue is em-dash "
                     f"(«ёлочки» only for titles/documents/written matter)")
 
+    # typography: a straight ASCII quote is invisible on screen next to the
+    # Russian pair and always means an unclosed nested „…“ (found twice in P3)
+    for i, line in enumerate(body.splitlines(), 1):
+        if '"' in line:
+            rep.err(f"{tag}:{i}: straight quote \" in prose - nested quotes are „…“ "
+                    f"inside «…»")
+
     prose = "\n".join(narration_lines(body))
     low = prose.lower()
 
@@ -388,14 +395,46 @@ def audit_cards(rep: Report) -> None:
 # assemble
 # --------------------------------------------------------------------------
 
+PARTS_FILE = ROOT / "book" / "parts.txt"
+PART_RE = re.compile(r"^\s*(\d+)\s*-\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*$")
+
+
+def load_parts() -> list[tuple[int, int, str, str]]:
+    """book/parts.txt: `from-to | Часть первая | Название` per line (# comments).
+
+    Absent or empty -> the book assembles as a flat run of chapters.
+    """
+    if not PARTS_FILE.exists():
+        return []
+    rows = []
+    for line in PARTS_FILE.read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.lstrip().startswith("#"):
+            continue
+        m = PART_RE.match(line)
+        if m:
+            rows.append((int(m.group(1)), int(m.group(2)), m.group(3), m.group(4)))
+    return rows
+
+
 def assemble(out: Path) -> None:
     files = sorted(MANUSCRIPT.glob("ch*.md"))
+    part_rows = load_parts()
+    opened = set()
     parts = []
     for f in files:
         meta, body = split_front_matter(f.read_text(encoding="utf-8"))
-        parts.append(f"\n\n# Глава {meta.get('chapter', '?')}. {meta.get('title', '')}\n\n{body.strip()}")
+        try:
+            num = int(str(meta.get("chapter", "0")).strip())
+        except ValueError:
+            num = 0
+        for i, (lo, hi, label, title) in enumerate(part_rows):
+            if lo <= num <= hi and i not in opened:
+                opened.add(i)
+                parts.append(f"\n\n# {label}. {title}\n")
+        parts.append(f"\n\n## Глава {meta.get('chapter', '?')}. {meta.get('title', '')}\n\n{body.strip()}")
     out.write_text("".join(parts), encoding="utf-8")
-    print(f"assembled {len(files)} chapters -> {out}")
+    extra = f", {len(opened)} part(s)" if opened else ""
+    print(f"assembled {len(files)} chapters{extra} -> {out}")
 
 
 # --------------------------------------------------------------------------
@@ -435,6 +474,8 @@ def selftest() -> int:
     run("card pov mirror", fm.replace("pov: draco", "pov: hermione") + prose_ru, "!= card")
     run("plants mirror", fm.replace("plants: [P1]", "plants: []") + prose_ru, "plants")
     run("quote-mark speech", fm + prose_ru + '\n\n"Привет", — сказал он.', "quote marks")
+    run("straight quote in prose",
+        fm + prose_ru + '\n\nОн прочёл «дар бюро „Наследие"».', "straight quote")
     run("forbidden lexicon", fm + prose_ru + "\nСтарый аврор кивнул.", "forbidden lexicon")
     run("banned tic", fm + prose_ru + "\nОн не мог не заметить.", "banned tic")
     run("said-bookism", fm + prose_ru + "\n— Нет, — воскликнул он.", "said-bookism")

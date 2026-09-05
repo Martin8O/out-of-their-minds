@@ -6,7 +6,7 @@ date_in_story: 2009-06-27
 target_words: 3200
 plants: [P9]
 payoffs: []
-status: draft
+status: final
 ---
 
 Свадьбу рассаживали по страху.

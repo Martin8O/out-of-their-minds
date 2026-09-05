@@ -1,0 +1,8 @@
+# Part divisions for the assembled book (read by tools/gate.py --assemble).
+# Format:  from-to | label | title      — titles per bible/plot-architecture.md §1.
+# Delete this file and the book assembles as a flat run of chapters.
+
+1-9    | Часть первая   | Чужая мантия
+10-18  | Часть вторая   | Один очаг
+19-26  | Часть третья   | Девятый круг
+27-33  | Часть четвёртая | Своими ногами

@@ -6,7 +6,7 @@ date_in_story: 2009-06-10
 target_words: 3000
 plants: [P4, P8, P20]
 payoffs: []
-status: draft
+status: final
 ---
 
 Нотт пришёл со своим светом.

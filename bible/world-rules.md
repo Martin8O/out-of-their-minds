@@ -52,8 +52,11 @@ experience one another until the feud it cannot find burns out.*
   один круг» is the RITE's own count (ch12), not the waves' timetable. The **wave-to-wave
   intervals form no series at all**: 15 May → 29 May → 3 June → 13 June → 25 June = 14 / 5 / 10 /
   12. What shortens is the **LAG** between «первые одиночные случаи» and «общее начало» —
-  11-8-4-2 → 0 (ch15's whole chapter; plant P11, printed in the Prophet's own timelines,
-  fair-play chartable). **No narrator and no character may state a nine-night wave rhythm as
+  11-8-4-2 → 0, and then 0-0-0 until the ninth line re-opens it to 2 (ch15 charts the
+  falling series; plant P11, printed in the Prophet's own timelines, fair-play chartable).
+  **The last warning returns and nobody reads it** — ch29: the rite gives two days'
+  notice before the ninth wave and the country, having learnt that the lag is zero,
+  has stopped looking for one. **No narrator and no character may state a nine-night wave rhythm as
   fact.** A lead may lay the rite's nine nights over the country as a working guess — and must
   be shown knowing the past intervals do not fit (Draco does exactly this in ch18; that is why
   Wave 6 on 4 July is a projection, not a law).

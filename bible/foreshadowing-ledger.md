@@ -17,7 +17,7 @@
 | P8 | The wrong dictionary — Криспин Бэгшот 1834; the «нерадивый родственник» footnote on Hermione's own shelf | 12 | 18 | paid ch18 |
 | P9 | The wedding word «кертан» — the ancient root audible in Ron and Eloise's vows | 17 | 18 | paid ch18 |
 | P10 | Second verb-trap — the completion clause reads «вверить» (entrust), not «признаться» (confess) | 18 | 27 | paid ch27 |
-| P11 | The WARNING shortens as the leads grow closer — wave-to-wave intervals form no series (14-5-10), but the lag between the first singular cases and the общее начало runs 11-8-4-2 → 0; printed in the Prophet's own «Хроника Путаницы» timelines | 15 | 29 | paid ch29 |
+| P11 | The WARNING shortens as the leads grow closer — wave-to-wave intervals form no series (14-5-10), but the lag between the first singular cases and the общее начало runs 11-8-4-2 → 0 — and re-opens to 2 for the ninth wave, where the warning is there and nobody reads it (ch29); printed in the Prophet's own «Хроника Путаницы» timelines | 15 | 29 | paid ch29 |
 | P12 | Tilly's silver button — lifted from Draco's sleeve, aims the spell; returned freely at the end | 2 | 30 | paid ch30 |
 | P13 | The unread drawer — Hermione finds his locked private drawer and pointedly does not open it | 7 | 29 | paid ch29 |
 | P14 | Планеры-переписка — the marginalia war becomes the love letters neither dared write; the last card «Веди» | 5 | 33 | paid ch33 |

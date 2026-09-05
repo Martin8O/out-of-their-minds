@@ -17,3 +17,6 @@ desktop.ini
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Machine-specific build settings (tectonic path etc.)
+tools/local.ps1
