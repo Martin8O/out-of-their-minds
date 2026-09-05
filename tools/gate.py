@@ -52,8 +52,8 @@ THRESHOLDS = {
     "chapter_target": (2700, 3400),   # target band -> warn outside
     "book_band": (90000, 110000),     # brief: 90-110k words
     "latin_leak_warn": 3,             # non-whitelisted Latin tokens per chapter
-    "inst_warn": 7.0,                 # style-guide 0.1: per 1000 words
-    "inst_rewrite": 11.0,             # 0.1: chapter must be rewritten
+    "inst_warn": 3.0,                 # style-guide 0.1: taboo - per 1000 words
+    "inst_rewrite": 5.0,              # 0.1: chapter must be rewritten
     "pov_metaphor_gap": 0.40,         # 0.2: min divergence between the two heads
 }
 
