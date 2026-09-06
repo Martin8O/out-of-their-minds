@@ -144,9 +144,10 @@ to remain at one hearth.
 7. Children are immune to every wave, every stage, always — and under W8 immunity is proved to
    run **in both directions** (ch24, derived on-page from «дитя принадлежит всем очагам»,
    §1): a child neither receives an adult's feeling nor surrenders their own. **A decision aimed
-   at a child returns nothing.** Load-bearing and fair-play: it is why the Wizengamot on 23 July
-   cannot be made to feel what Tilly and Oscar feel, and why the one weapon that would win the
-   custody case does not exist. Do not let any later chapter quietly reopen this.
+   at a child returns nothing.** Load-bearing and fair-play: it is why the four adults deciding
+   about them on 23 July cannot be made to feel what Tilly and Oscar feel, and why the one weapon
+   that would settle it does not exist — the only two people at that table who cannot be read are
+   the two being decided about. Do not let any later chapter quietly reopen this.
 
 Rails: waves start funny, turn genuinely threatening from wave 6; the children are always
 immune; national canvas stays garnish — every wave lands ON the household of four. New anomalies

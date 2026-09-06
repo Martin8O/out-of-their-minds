@@ -2,6 +2,24 @@
 
 Newest at the top. One entry per finished prompt (wrap-up only).
 
+## 2026-09-06 — P4 · The genre revision
+
+**34 chapters and 8 bible files rewritten against style-guide §0 · 6 chapters renamed · 3 written from scratch · gate GREEN, --cards GREEN, --selftest GREEN · 103 899 words**
+
+The diagnosis was not the one the brief's author expected, and all six triage readers reached it independently: the disease was not institutional *nouns* but **clerical metaphor running in every head at once**. `гроссбух`, `опись`, `графа` and `столбик` were Draco's and Hermione's shared interior instrument from chapter three — twenty chapters before the plot permits convergence — and `протокол` had become the word the book used for the ancient rite itself. The funniest chapters were the most infested, because all the jokes were civil-service jokes. Comedy had to be **re-housed, not deleted**.
+
+Three structural replacements, each logged: Draco's secret (ADR-013), Oscar's register (ADR-014), the custody hearing (ADR-015). ch13, ch25 and ch33 were written from nothing; ch04, ch06, ch07, ch10, ch11, ch18, ch19, ch22, ch23, ch26, ch29 and ch32 had whole movements replaced. Six files renamed, because five of the six old titles named the deleted material.
+
+**The gate was measuring the wrong axis and said so nowhere.** A reviewer proved it independently: ch04's second half scored 23.4/1000 on a proper list while the gate called it clean. §8.5 and §8.6 were extended twice and re-baselined; `пункт` was added and then removed again, because it fires on Hermione's lawful enumeration, which is her licensed instrument. Warnings went from 34 to 0.
+
+**What the method got wrong, and the correction.** ch01–ch23 went to readers one to three chapters at a time. ch24–ch34 went to one reader as a block of eleven — my call, made to close the last block in one pass. That report was detailed and its numbers were not: it praised two passages as already-correct that did not exist until the fix pass created them, and it missed the court residue in ch22 and ch23 because its scope began at ch24. The author challenged the batch size and was right. The four two-chapter **continuous reads** that followed found sixty-odd further defects, including the class no stem list can reach: a cat hissing at the wrong body inside P17's own payoff paragraph, Mary Crabbe called a widow in the sentence where Draco tells his crew she is a mother, «С третьего июня» inside P11's payoff where the date is 25 June, and a sentence corrupted mid-word in ch26 that three grep-driven rounds had walked past — it was item one on a priority list and I put it in a script's docstring instead of its code. **Findings lists do not catch inversions. Reading does.** (ADR-016.)
+
+Never self-verify, again vindicated: every chapter went to a reader who did not write it, and the readers caught the ch02 attic deletion that destroyed P1's mechanism, the gate's blindness, and my own missed blocker.
+
+`bible/invented-canon.md` was audited in two passes against the finished text — 150 rows judged, 134 replaced, 11 deleted. The hearing survived in five bible files after it was gone from every chapter; `plot-architecture.md`, `timeline.md`, `world-rules.md` and `chapter-grid.md` are now clean, and `grep Визенгамот bible/` returns the glossary and permitted background only.
+
+▶ Run on: **frontier · high** (chapter redrafts at max; independent reads at high)
+
 ## 2026-09-05 — P3 · Review, polish, ship
 **117 fixes applied across 26 chapter files, 6 bible files and the gate · gate GREEN · --cards GREEN · --selftest GREEN · 102 830 words · EPUB + A5 PDF built.**
 

@@ -76,7 +76,7 @@ RESOLUTION (32–34): the night in their own bodies; LIFO unwind; custody; the l
 | RJ1 | **Второй кусок лимонного пирога** — Narcissa's one impossible observation per tea | near-exposure comedy → she always knew; testimony ch26; "the woman who listened" |
 | RJ2 | **Список Гарри** — the deadpan evidence log | items surface at the worst moments → item 28 at the tango: «Она счастлива. Дело закрыто.» |
 | RJ3 | **Война планеров** — sarcastic marginalia in her planner ↔ his ledgers | accidental correspondence → the owl reads «вторник: не смотреть, как он смеётся» aloud (ch22) → the planners were the love letters; the last card: **«Веди»** (ch34) |
-| RJ4 | **Экономика Оскара** — everything already "arranged" | → three galleons and a Dumbledore card offered to the Wizengamot «на взятку» (ch25) |
+| RJ4 | **Экономика Оскара** — everything already "arranged" | → three galleons and a Dumbledore card put on the kitchen scales against a year of a child's bed, «если нас разлучат» — and Tilly answers by putting her tin on the other pan (ch25) |
 | RJ5 | **Патронусы-почтальоны** — wrong shape, wrong voice | escalating absurdity → the first CLEAN otter in her true voice (ch29) — the reader knows before the characters |
 | RJ6 | **Аббревиатура, которую не забыли** — the Ministry still savours ГАВНЭ | he delivers her elf-rights position from memory better than she dares (ch13) → her finding his annotated 2003 pamphlet, marginalia in his real hand (ch30): the oldest evidence of the oldest secret |
 | RJ7 | **Досье Пэнси** — a dossier on everyone | bride-candidate files vs Narcissa's → the last dossier: «Гермиона Грейнджер», one page, eleven years of his own unprompted words (ch34) |

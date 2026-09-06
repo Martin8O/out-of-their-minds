@@ -25,8 +25,8 @@
   she is likeable when useless (his friends, his mother, his crew prefer the unguarded her,
   ch10–18) → honesty wave: deflects, hates herself, relapses (ch23) → entrusts the affair (ch28)
   and is not left → owed honesty to Ron (ch30) → learns to follow without disappearing: «Веди»,
-  the tango (ch34). **Cost paid:** hands over control publicly — recuses herself from the case
-  that could have been her career's crown, and lets a court decide her family.
+  the tango (ch34). **Cost paid:** hands over control publicly — stands in her own hall unable to finish
+  a stranger's sentence about who she is, and lets two people from Kent decide her family.
 
 ### Драко Малфой (28; b. 5 Jun 1980) — POV B
 - **2009:** founder-head of bureau «Наследие» — curse-breaking and estate decontamination;
@@ -39,11 +39,30 @@
   (his wand, his standing, one chance to matter); Crabbe died in the Адское пламя; in the fire he
   reached for Goyle because Goyle was nearer; he chose, lived, and was saved by the boy he had
   been hunting. (Framed as HIS guilt-reading of the canon scene, not a retcon.)
-- **The secret — THE CRABBE PENSION:** eleven years of forged Ministry "war honours" letters —
-  letterhead, seal, signature — paying Mrs Crabbe a hero's-widow pension from his own vault. Not
-  evil: a kindness built entirely of lies, and a criminal offence — and Hermione is the DMLE.
-  The anomalies aim at it: the no-lying wave makes the annual letter unwritable (ch19); the
-  handwriting wave threatens eleven years of signatures (ch22). Reveal ch29 at the Manor.
+- **The secret — ELEVEN YEARS OF SUNDAYS (ADR-013):** in the week after the fire he went to a
+  small house outside Ившем because he could not not go, and Vincent's mother opened the door to
+  the boy her son had followed everywhere. She asked how Vincent died. He was seventeen, and the
+  only sentence he could put in her hands was: *«Он выводил людей. Он остался, чтобы вывести
+  последних.»* He has been going ever since — the roof in 2001, the back door, the pump, her coal
+  and her butcher paid out of a «фонд старых семей» that is his own pocket; the second Sunday of
+  every month, and always the second of May. He has never once said her son's name aloud in her
+  house. She gives him a jar of gooseberry jam at every visit; eleven of them stand unopened in a
+  latched cupboard in his kitchen, the oldest labelled 1998 in her hand. Eleven times, once a
+  year, she has asked whom she should thank — at her own table, and again in a letter on
+  squared paper when he has gone — and eleven times he has answered neither.
+  **The three layers, in the order they surface (ch29):** (1) he supports her — merely
+  embarrassing; (2) he told her the lie and renews it at every visit, so she has grieved a hero
+  for eleven years and Draco built the hero; (3) **why he keeps going** — she is the only living
+  person who is glad when he walks in, and she is glad because she does not know. He calls it
+  искупление; it is утешение. That third layer is what makes him feel unworthy of love, and it
+  is what he says last, in the fewest words, believing it will end everything.
+  **No crime anywhere in it** — which is the point. The old version made Hermione a law officer
+  holding evidence and turned the emotional climax into a procedural one. Now she holds nothing
+  but him, and the charge she can bring has no name in law: *he decided, for eleven years, what
+  a mother could survive.* The anomalies besiege it without a single document — the honesty wave
+  makes the visit impossible (he cannot repeat the story), the empathy wave would hand her him
+  whole across her own table, and under the faces wave he cannot know what he would arrive
+  wearing. Reveal ch29 at the Manor; paid at her own table, ch33.
 - **Lie (internal antagonist):** "Redemption may earn forgiveness — never love. Loving her would
   only stain her."
 - **Texture:** impeccable dress as safety, not vanity; dry, self-deprecating wit; warm and
@@ -52,9 +71,10 @@
 - **Foster motive:** chooses a girl — Malfoys "only raise sons", and he is done with the
   tradition. Picks the one who bit an adopter.
 - **Arc:** hostility→ performing her life teaches him her weight (ch4–9) → her people become his
-  accidental home (ch10–18) → the waves besiege the secret (ch19–26) → entrusts the pension
-  expecting the end of everything; is read, not judged (ch29) → writes Mrs Crabbe the truth —
-  cost paid BEFORE her grace arrives (ch33) → leads the tango because she asks him to (ch34).
+  accidental home (ch10–18) → the waves besiege the secret (ch19–26) → entrusts it expecting the
+  end of everything; is read, not judged (ch29) → goes to her kitchen on a day when nothing needs
+  mending and unsays it with his own mouth — cost paid BEFORE her grace arrives (ch33) → leads the
+  tango because she asks him to (ch34).
 
 **Address arc (binding):** «Грейнджер»/«Малфой» + «вы» → the «ты» shift is ONE deliberate beat
 (ch21, over the children's confession); first-name use per grid; his internal voice says
@@ -63,12 +83,17 @@
 ## 2. The children
 
 ### Оскар Данн (10; half-blood) — Hermione's boy
-Parents lost to the 2004 dragon-pox outbreak. Fast-talking miniature barrister; the orphanage's
-black-market kingpin (sweets, favours, Chocolate-Frog futures); labelled "difficult" because he
-*organizes*. Lies smoothly to please; hoards food under the bed; terrified of silence and fills
+Parents lost to the 2004 dragon-pox outbreak. Fast-talking market boy; the orphanage's black-market
+kingpin (sweets, favours, promises, Chocolate-Frog futures); labelled "difficult" because he
+*organizes*. **Register (binding, ADR-014):** he is a dealer, never a clerk — цена, сдача,
+товар, ходовое, недовес, весы, «по рукам», «половина вперёд», «спроси кого хочешь», «за так».
+No гроссбух, опись, квитанция, ведомость, графа, себестоимость, тариф, прейскурант, «занести»,
+«списать». He keeps no books; **he remembers**, which is funnier, more frightening and ten years
+old. «За так» is the thing he cannot say until the end. Lies smoothly to please; hoards food under the bed; terrified of silence and fills
 it. Comic mirror of Hermione: a rules-lawyer who trusts systems more than people. **Arc:** stops
 bartering for love he can have free — his life savings (three galleons and a Dumbledore card)
-offered to the Wizengamot «на взятку, если нас разлучат» breaks the court's heart (ch25); ends
+put on the kitchen scales against a year of a child's bed, «если нас разлучат», and Tilly answers by
+putting her tin on the other pan (ch25); ends
 as the boy who explains the rules to new kids at the farewell ball — for nothing.
 
 ### Матильда «Тилли» Крофт (9; orphaned in infancy, cause unrecorded in her file) — Draco's girl
@@ -88,7 +113,7 @@ auction chest in the attic (so IT wouldn't be left behind); her translation rend
 «соединяет два очага навсегда»; orphanage folklore says the Ministry never separates children
 «связанных магией». On gala night they overhear the final placements — girl to Malfoy, boy to
 Granger — **and the case-officers quoting Hermione's own briefing: «привязанность мешает
-адаптации»** (her phrasing loaded the gun — plant ch1, detonates ch20). They perform the rite in
+прижиться»** (her phrasing loaded the gun — plant ch1, detonates ch20). They perform the rite in
 the attic that night, each holding "a thing warmed by the hearth-keeper": Oscar — the
 handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
 
@@ -123,7 +148,8 @@ handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
 - **Нарцисса Малфой** — runs the Malfoy Foundation charities; pressures Draco with bride dossiers
   (Wednesday Tea). **Knew from week one** («мой сын никогда не берёт второй кусок лимонного
   пирога») and stayed silent — because the woman inside her son's Wednesdays listened to her,
-  three weeks running, without interrupting. Her Wizengamot testimony (ch26) turns the hearing.
+  three weeks running, without interrupting. She invites the strangers to her own table (ch26) and reads them ten Wednesdays by date, refusing
+  to give the opinion she was asked for — and that is what decides them (ch33).
   Arc: dynasty → family.
 - **Гортензия Спротт** — ancient matron of приют «Крапивный дом»; strategically incompetent:
   "mislays" paperwork to keep bonded pairs of children together an extra season; suspected the
@@ -133,6 +159,6 @@ handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
   book's wordless truth-meter; his final settling on real-Draco's lap certifies the romance
   before anyone says it (ch33).
 - Off-page pressure: **Рита Скитер** (press; no on-page scenes), **Кингсли Бруствер** (Minister),
-  **Минерва Макгонагалл** (Hogwarts letters loom for both kids), **миссис Крэбб** (letters only;
-  «Министерство не платит галлеонами чеканки девяносто седьмого года» — ch33), **Джулиан
+  **Минерва Макгонагалл** (Hogwarts letters loom for both kids), **Мэри Крэбб** (on-page in ch33; knew from 1999 —
+  «Уголь был слишком хороший»; «Вы одиннадцать лет ни разу не назвали его по имени»), **Джулиан
   Хартли** (never on-page; a name and a wound).
