@@ -2,6 +2,22 @@
 
 Newest at the top. One entry per finished prompt (wrap-up only).
 
+## 2026-09-06 — P4b · The brief audit and the 35th chapter
+
+**Audited against the commissioning brief itself · 2 Tier-0 clauses patched · a 35th chapter written · 35 ch · 107 297 words · gate GREEN, --cards GREEN, --selftest GREEN**
+
+Two independent readers took the finished book back to `Local/brief.md`, which nobody had done since P4 began: every check until now tested style-guide §0, and §0 is a *derivation* of the brief — it says so itself («При конфликте §0 с заданием заказчицы побеждает задание»).
+
+The spine held without reservation, and in three places the book delivers the brief more strictly than the brief delivers itself. But **three Tier-0 requirements had been dropped with no logged reason**. Hermione's founding motive — raise a man who will not repeat Lucius's generation's prejudices — was silently substituted at chapter one and never examined: «по крови», «предрассудки», «чистокровный», «грязнокровка» stood at **zero occurrences in 104 000 words**, and prejudice is not institutional, so §0.1 was never the reason. Draco's second false belief («loving her would only hurt her») was never articulated anywhere, so nothing disproved it — ADR-012 had added a scene expressly to fix that and P4's own D3 deleted the scene, logging the deletion and not the consequence (ADR-017). Both are patched: her motive at the point of decision and paid by the boy she chose («фамилиями не торгует… платят за то, что человек делает»), his belief stated at the near-kiss and named in ch33 as the same crime Mary Crabbe charges him with.
+
+The third was the explicit share — ~1.6 % against the brief's ~10 %. ADR-009's proposed remedy turned out to break a stricter clause of the same brief: the novel must *conclude* with the tango and the final image must be the dance, so nothing can follow it. **ADR-018**: a 35th chapter into the thirteen-day gap instead — ch34 «Два крючка», Hermione's POV, her side of the aftermath, which the book had never had. ~2.9 % now. The rest is foreclosed by the body swap the brief itself fixes for thirty chapters, and is logged rather than hidden.
+
+The genre answer, honestly: §0.3 is satisfied 35/35 and the comedy's transplant out of civil-service jokes took, but a reader would call this a comic domestic novel rather than a romantic comedy — the leads are funny the way very self-controlled people are funny, nobody is ever humiliated in public, and almost all the laughing is done by the supporting cast and the children. The residue answer: **2.70 institutional hits per 1 000 words against a benchmark failure of 23.4**, thirty of forty-four watched terms at absolute zero, `графа` once in the novel, twenty-two chapters with no load-bearing institutional material at all.
+
+New prose went to a reader who did not write it, and the reader earned its keep: a third of it summarised what the scene had already dramatised, the ch33 passage *pre-played the tango's four-bar pause*, and one clause put `опись` back into the book as a metaphor for the only time in 105 000 words — the gate cannot catch that, because §8.6 measures book-level parity and not a single token.
+
+▶ Run on: **frontier · high**
+
 ## 2026-09-06 — P4 · The genre revision
 
 **34 chapters and 8 bible files rewritten against style-guide §0 · 6 chapters renamed · 3 written from scratch · gate GREEN, --cards GREEN, --selftest GREEN · 103 899 words**
