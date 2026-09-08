@@ -36,10 +36,11 @@ opinions, and a dance at the end.
 
 ## Download
 
-**[→ Releases](../../releases)** — EPUB and A5 PDF.
+**[→ Releases](../../releases)** — EPUB, MOBI and A5 PDF.
 
-The EPUB opens in any reader; Kindle has accepted EPUB directly since 2022, so Send-to-Kindle works
-without conversion.
+The EPUB opens in any reader, and Kindle has accepted EPUB directly since 2022, so Send-to-Kindle
+works without conversion. The MOBI is there for Kindles old enough to predate that — it is MOBI 6
+(KF7), which the earliest devices can still read.
 
 ## How it was written
 
