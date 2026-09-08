@@ -6,7 +6,7 @@ Newest at the top. One entry per finished prompt (wrap-up only).
 
 **17 cartographers + 11 independent readers (9 killed once, all re-run) · ~200 prose edits across 35 chapters · ch15 converted off paper · 35 ch · 108 423 words · gate GREEN, --cards GREEN, --selftest GREEN · EPUB + A5 PDF built (404 pp)**
 
-P5 left four taste calls and a typeset. The first was not a taste call. the commissioning brief binds the book to **20–35 %** proximity and affection; P5 had measured **≈12–13 %**, with inner life at ≈78–82 % against her 60–70 %. The machine number was blunter — **68 contact verbs in 113 989 words, eleven chapters with none at all** — and the diagnosis sharper than either: the book was full of body-part nouns (ладонь ×111, плечо ×76) and nearly empty of contact verbs (косн ×4, прижал ×3, обнял ×4). The bodies were present as objects and never met.
+P5 left four taste calls and a typeset. The first was not a taste call. The commissioning brief binds the book to **20–35 %** proximity and affection; P5 had measured **≈12–13 %**, with inner life at ≈78–82 % against her 60–70 %. The machine number was blunter — **68 contact verbs in 113 989 words, eleven chapters with none at all** — and the diagnosis sharper than either: the book was full of body-part nouns (ладонь ×111, плечо ×76) and nearly empty of contact verbs (косн ×4, прижал ×3, обнял ×4). The bodies were present as objects and never met.
 
 There was no room to add — 107 474 words against a 110 000 ceiling — so the rule was **conversion**: every beat paid for by cutting rumination, restatement or explained emotion in the same scene, which is material §1 already forbids. Both numbers then move at once. Seventeen readers mapped two chapters each, every proposal anchor-verified, every edit through a harness that aborts the whole batch unless each anchor matches exactly once. The book grew **983 words, 0.9 %**; contact verbs **+38 %**, proximity **+31 %**, chapters at zero **6 → 1**.
 
@@ -85,7 +85,7 @@ Ship. `tools/build.ps1` adapted for Russian A5; `gate.py --assemble` now emits t
 
 **Late addition, same prompt — ch32 split, the book is now 34 chapters (ADR-012).** The author asked whether the brief actually required the tango-night scene; it does not — the tango appears once, as the closing dance, and the "curtain drawn late" was a P1 invention of our own bible. What the brief *does* require and the book missed is the ~10 % proportion. Rather than write a scene to a quota at the cost of the last line, the overloaded ch32 was split: «Опись не сходится» (14 Aug, the private night and morning) and «Обратный порядок» (15 Aug, the unwind, the corridor, the verdict, the letter). Both halves fell below the hard minimum on a bare split, so ~1 800 words were written into them — which is the point, not the cost. Private side: a second, freer movement before dawn, on her terms and without a list; the lamp she set as her one condition and puts out herself; the failed pricing where his oldest belief finds no column for something nobody billed him for. Public side: the ministry corridor where her recusal is finally charged in front of him — a pass demanded, a greeting withheld — and she does not flinch (L5-06, which the panel called retired by fiat); a face for the crewman the widows' provision costs him; three of the eleven widows named. Explicit prose roughly doubles, to ~1 900 words; the ending keeps its curtain and ADR-009 stands. Ledger and parts moved in step (P6/P17 → ch33, P14/P19 → ch34, part IV 27–34). 104 610 words, gate GREEN, 384-page A5 PDF.
 
-Also at the author's instruction: the colophon and dedication were rewritten for publication — the draft was a personal letter in his voice and named the commissioner and her role; the shipped version is factual, still discloses that the text was made with AI, and the dedication is a bare first name.
+Also at the author's instruction: the colophon and dedication were rewritten for publication — the shipped version is factual, still discloses that the text was made with AI, and the dedication is a bare first name.
 
 Residual, ranked, for a possible P4: the OBSERVERS engine goes off-page after ch5 and three of the eight running jokes stop running (~1 200 words across four chapters — the biggest single gain still available); ch23 wants a redraft, being the one chapter whose scheduled event happens behind a closed door; the recusal's public cost is chosen but never staged. **ADR-010** records that P3 triaged rather than obeyed. Model-fit: orchestration at frontier/high, eight panels at frontier/high in parallel (~3.1 M subagent tokens) → **fit**; the verification-before-action discipline is what made the panels safe to use.
 
@@ -120,8 +120,8 @@ ADR-005 premise lock, ADR-006 repo placement. Model-fit: used frontier/high (+7 
 fit.
 
 ## 2026-08-04 — P0 · Project founded (scaffold)
-Directory the project directory created inside the Fun Fic repo with the classic structure: `CLAUDE.md`,
+The project directory was created inside the parent repo with the classic structure: `CLAUDE.md`,
 `docs/adr.md` (ADR-001…004), `Local/` (brief verbatim, bootstrap, 3-prompt plan, prompt standard),
-empty `bible/` + `manuscript/` to be filled by P1/P2. the commissioning brief captured verbatim as the
+empty `bible/` + `manuscript/` to be filled by P1/P2. The commissioning brief captured verbatim as the
 binding product spec; three-prompt plan of record locked (concept → full multi-agent draft →
 review/polish/ship). No prose written. Model-fit: used frontier/high → fit.

@@ -2,6 +2,10 @@
 
 ### «Не в своём уме» · *Nejsou při smyslech*
 
+<p align="center">
+  <img src="book/cover.png" alt="«Не в своём уме» — cover" width="360">
+</p>
+
 A Dramione romantic comedy, written in Russian. *Harry Potter* fan fiction: canon world,
 original plot, no crossover with anything but ordinary life.
 

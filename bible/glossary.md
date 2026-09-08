@@ -11,7 +11,7 @@
 | Item | Russian (chosen) | Note |
 |---|---|---|
 | Novel title | **«Не в своём уме»** | locked in P1 (ADR-005): the idiom "out of one's mind" read literally — not in one's own mind/body. The body swap, the romcom madness, and falling in love against your own better judgment in three words; comedic on the shelf, thematically exact underneath (the book is about finally coming home to yourself). Runners-up logged: «Обмен любезностями», «Один очаг». |
-| Working codename | the commissioner | repo/dir name only, never in prose |
+| Working codename | — | redacted for publication; never appeared in prose |
 
 ## 2. Canon characters — Rosman spellings (binding)
 

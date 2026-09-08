@@ -35,7 +35,7 @@ try:  # keep Cyrillic printable in a Windows console
 except Exception:  # pragma: no cover
     pass
 
-ROOT = Path(__file__).resolve().parent.parent          # 
+ROOT = Path(__file__).resolve().parent.parent          # repo root
 MANUSCRIPT = ROOT / "manuscript"
 BIBLE = ROOT / "bible"
 STYLE_GUIDE = BIBLE / "style-guide.md"

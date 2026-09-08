@@ -52,7 +52,7 @@ $ErrorActionPreference = 'Stop'
 $localConfig = Join-Path $PSScriptRoot 'local.ps1'
 if (Test-Path $localConfig) { . $localConfig }
 
-$repo = Split-Path -Parent $PSScriptRoot      # 
+$repo = Split-Path -Parent $PSScriptRoot      # repo root
 $stem = $Stem
 $title = $Title
 

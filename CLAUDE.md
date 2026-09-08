@@ -1,11 +1,11 @@
-# CLAUDE.md — «Не в своём уме» (working codename; final title locked in P1)
+# CLAUDE.md — «Не в своём уме» (working codename redacted; final title locked in P1)
 
 A ~90–110k-word **Dramione romantic comedy** (30–35 chapters, 180–200 printed pages) set in the
 post-war Harry Potter universe (2009, eleven years after the Battle of Hogwarts). Fan fiction:
 canon world and canon characters, original plot. Written **natively in RUSSIAN** (ROSMAN lexicon).
 Written to a private commission; the brief is the binding product spec: `Local/brief.md`.
 
-**Scope note:** this is a subproject inside the Fun Fic repository. Within the project directory, THIS file
+**Scope note:** this is a subproject inside the Fun Fic repository. Within this directory, THIS file
 overrides the parent `CLAUDE.md` (which governs *Unplottable*). Parent hard rules that remain in
 force here: C: drive forbidden · `Local/` never committed · commits only at wrap-up, scoped ·
 bible-first · ledger discipline · gate green before commit.

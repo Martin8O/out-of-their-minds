@@ -10,7 +10,7 @@ import math
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
-OUT = Path(r"D:\Projekty\Fun Fic\book\cover.png")
+OUT = Path(__file__).resolve().parent.parent / "book" / "cover.png"
 S = 2                      # supersample factor
 W, H = 1600 * S, 2560 * S
 FONTS = Path(r"C:\Windows\Fonts")
@@ -157,7 +157,7 @@ centred("роман", f_kicker, int(2175 * S), GOLD + (235,), spacing=9)
 
 d.line([int(690 * S), int(2320 * S), W - int(690 * S), int(2320 * S)],
        fill=GOLD_SOFT + (95,), width=1 * S)
-centred("МАРТИН", f_author, int(2385 * S), DIM, spacing=14)
+centred("MARTIN", f_author, int(2385 * S), DIM, spacing=14)
 
 # ------------------------------------------------------------------- write
 img = img.convert("RGB").resize((1600, 2560), Image.LANCZOS)
