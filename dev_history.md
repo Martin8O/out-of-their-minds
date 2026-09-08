@@ -2,6 +2,24 @@
 
 Newest at the top. One entry per finished prompt (wrap-up only).
 
+## 2026-09-08 — P5 · The final read
+
+**23 reports · 8 chapters read for the first time · ch23 redrafted whole · ~110 prose edits · 35 ch · 107 474 words · gate GREEN, --cards GREEN, --selftest GREEN**
+
+The read was commissioned to catch four named defects and found all four already gone. What it actually found was **a coverage hole nobody had noticed**: ch05–06, ch07–08, ch09–10 and ch13–14 had never had a continuous read, because the agents assigned to them in the first session were killed by the token budget. Given one, all four pairs came back PASS WITH FIXES with two blockers and some forty-five defects between them — ch07's tea in the wrong cupboard *inside P13's own plant paragraph*, ch13's Kissy aged 190 in one line and 140 in two others, a wave reported in the Prophet two days before its first case, and ch08's entire narration built on an institutional metaphor system — Molly's table as an investigation — running in Draco's head in a register that is *hers*. Two of the read's seven blockers came out of chapters nobody had flagged in advance.
+
+**One report had been sitting on disk, complete, unread.** `audit-grammar.md` was written fifteen minutes before the consolidated verdict; its agent was killed while machine-verifying its own quotes, so nothing reached the orchestrator and the verdict recorded the sweep as "killed". It had read all thirty-five chapters line by line and carried fourteen blockers, nine of them with the exact edit script that made the scar — a named woman who is «он» twice inside her own scene, a date form that appears nowhere else in the book, an exchange whose reply and answer were written for a masculine noun a script had replaced. Two of its blockers had been quoted *approvingly* in earlier reviews as examples of good prose. A report that lands and is not read is worse than one never run, because the record then says it was not run.
+
+The two standing blockers closed. The key in ch31 was in the wrong garment **and** in a pocket that has held the quarter-page since 20 July — it travelled in the сюртук, and ch29/ch30 prove it twice; the previous pass had refused to guess and was right to. And Draco, who spends twenty-nine chapters being spoken to as Hermione, finally has an exchange in which Nott and Blaise speak to **him**, at the ch35 buffet, for the first time since May. The second Sunday was arithmetic: 10 May and 14 June are also second Sundays and both fall inside the swap, so 12 July was the third missed visit and not the first — which makes ch22's beat harder, not weaker.
+
+**ch23 was the one chapter graded FAIL, and it was redrafted whole rather than patched** (ADR-020). Its blockers were structural and one per movement: an evening shop scene answered at half past four the same afternoon, a home movement that turned out to be **two drafts of the same evening spliced together**, and a dinner whose subject was the off-page deposition ADR-015 had dissolved. The shop moved to before opening — which is what ch28's ascending all-day answer ladder requires — and the interview became мадам Спротт's own visit, which `timeline.md` had placed on 16 July all along. Verified by a reader who did not write it: the three failures «genuinely fixed, not relabelled», plus two blockers and nine defects of its own, all applied.
+
+The record was in worse shape than the book. Only one prose defect came out of the whole bible audit; everything else was stale — Mary Crabbe still a widow in `invented-canon.md` when the prose had called her a mother for two days, `timeline.md` still holding a dissolved hearing and numbering ch35 as 34, P14 marked «paid ch34» when ch35 hands over the card, P15 describing an object ch13 does not contain. **Four ADRs gave four different figures for the same explicit prose**; ADR-018's ~2.9 % is corrected to ≈2.5 % generous / ≈1.3 % strict, with a pointer, which is the thing ADR-017 said was missing when it named this exact failure mode.
+
+One warning is left in the book and it is deliberate: ch35 stands at 3 527 words against a 3 400 target, because the chapter sat at 3 390 and the friendships the brief requires had to go somewhere. A soft warning is cheaper than a mutilated finale.
+
+▶ Run on: **frontier · high**; the ch23 redraft at **high** with an independent verifier rather than **max** — the chapter's prose was sound and only its architecture was broken, and the constraints (three chapters pay ch23, one of them in order) sat in the session that did the work.
+
 ## 2026-09-06 — P4b · The brief audit and the 35th chapter
 
 **Audited against the commissioning brief itself · 2 Tier-0 clauses patched · a 35th chapter written · 35 ch · 107 297 words · gate GREEN, --cards GREEN, --selftest GREEN**

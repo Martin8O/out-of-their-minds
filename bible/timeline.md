@@ -31,13 +31,14 @@
 | 12 Jul | wave 7 (handwriting + owls): Diagon Alley set piece; custody papers invalidated | 22 |
 | 16 Jul | Спротт names the Thursday; Hermione deflects Ron's question, hates herself | 23 |
 | 20 Jul | wave 8 (empathy flood); the near-kiss farce | 24 |
-| 23 Jul | the custody hearing; three galleons | 25 |
-| 26 Jul | Narcissa's testimony + the 14th-century commentary: completion, not breaking | 26 |
+| 23 Jul | the Molyneux at the leads' table: nothing granted, nothing refused; Edith names what she needs and sets the autumn deadline; three galleons | 25 |
+| 26 Jul | Narcissa receives them at her own table and refuses the opinion she is asked for + the 14th-century commentary: completion, not breaking | 26 |
 | 1 Aug | the staged completion FAILS (вверить ≠ признаться); wave 9: Manchester couple wakes swapped; deadline computed — ninth circle closes night of 9/10 Aug | 27 |
 | 3 Aug | Hermione entrusts the affair | 28 |
-| 5 Aug | Draco entrusts the pension; the unread drawer; Harry's file; **first clean otter Patronus** | 29 |
+| 5 Aug | Draco entrusts Mary Crabbe; the unread drawer; Harry's file; **first clean otter Patronus** | 29 |
 | 7 Aug | Ron's grace; the pamphlet with his marginalia; Tilly returns the button | 30 |
 | Sat 8 Aug → dawn 9 Aug | one roof, household asleep at the Manor hearth; **completion**; waking in their own bodies; first kiss | 31 |
 | Fri 14 Aug | The house empty for the first time since 6 May; the night in their own bodies; the twelfth letter — two words, «В воскресенье» — sent at 6:20 | 32 |
 | Sat 15 – Sun 16 Aug | He tells the crew under a new beam; Уиткомб walks out and comes back; Evesham — Mary Crabbe knew from 1999; two dozen such women and no list of them; the yard: Edith Molyneux says what decided her; Живоглот's verdict | 33 |
-| Sat 29 Aug | farewell ball at «Крапивный дом»; «Веди»; the Argentine tango | 34 |
+| Sat 22 Aug | «Два крючка»: two brass hooks at three feet six; the nameplate every true version of which lies about somebody; «Танцевать — это отдать… решение» | 34 |
+| Sat 29 Aug | farewell ball at «Крапивный дом»; «Веди»; the Argentine tango | 35 |

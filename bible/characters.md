@@ -127,7 +127,7 @@ handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
 - **Джинни Поттер** — senior Quidditch correspondent, «Ежедневный пророк». First to smell romance
   where everyone smells conspiracy. Byline-vs-loyalty arc: the story of the decade walks through
   her kitchen; she chooses the kitchen — and writes the orphanage's story instead.
-- **Рон Уизли** — co-owner of «Всевозможные волшебные вредилки»; engaged to Элоиза Миджен (kind,
+- **Рон Уизли** — co-owner of «Всевозможные волшебные вредилки»; married to Элоиза Миджен since 27 June 2009 (ch17) (kind,
   unimpressed by fame, good for him). No torch; unresolved guilt on both sides of 2002. **Always
   knew** about the affair (saw the returned 2003 letter, forgave silently): his ch30 grace —
   «четыре года я думал, это я всё сломал» — closes her oldest wound and models the acceptance
