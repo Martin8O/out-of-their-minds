@@ -94,9 +94,9 @@ to remain at one hearth.
 | 1 | Трансгрессия портит внешность (hair, robes, origami-forms later) | 6–7 | forced cooperation | grooming each other's bodies: hairbrush truce |
 | 2 | Летучий порох шлёт не туда | 8–9 | first teamwork | stranded: Hebridean sheep shed, first honest «мы» |
 | 3 | Патронусы-почтальоны путают голос и облик (invention A) | 10–11 | unexpected understanding | you learn what people sound like when the label falls off |
-| 4 | Голоса меняются владельцами посреди разговора | 12–13 | mutual respect | Task-Force farce: he defends her positions in her voice better than she dares |
+| 4 | Голоса меняются владельцами посреди разговора | 12–13 | mutual respect | Новоселье farce: he argues her own fifteen-year-old case in her voice better than she dares |
 | 5 | Мысли вслух — но только при том, с кем боишься честности | 15–17 | curiosity → friendship | the country's most embarrassing wave is their most intimate |
-| 6 | Полная неспособность лгать | 19–21 | protectiveness (THE HINGE: funny → threatening) | the forged pension letter unwritable; her deflection to Ron fails |
+| 6 | Полная неспособность лгать | 19–21 | protectiveness (THE HINGE: funny → threatening) | the eleven-year silence about the second Sundays unspeakable; her deflection to Ron fails |
 | 7 | Почерк меняет хозяев + совы читают письма вслух | 22–23 | shared vulnerability | Gringotts freezes; custody papers invalid; the planner page read aloud in Diagon Alley |
 | 8 | Чужие чувства громче своих (empathy flood) | 24–26 | unspoken longing | they drown in each other's wanting and dare not name whose it is |
 | 9 | «Чужое утро» — strangers wake in others' lives; a Manchester couple wakes fully swapped (invention B) | 27–29 | desire, trust, the race | the deadline made flesh |

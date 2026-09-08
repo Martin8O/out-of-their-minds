@@ -29,3 +29,4 @@
 | P20 | Immunity line «дитя принадлежит всем очагам» — decoration until it dates the rite before every modern institution | 12 | 18 | paid ch18 |
 | P21 | Patronus-messengers running joke carries the reversal's first signal — the first CLEAN otter in her true voice | 10 | 29 | paid ch29 |
 | P22 | «Догорит» — the price, not the model: ch18 leaves «если это нельзя сломать, то что значит „догорит“?» unanswered by anyone in the house; the 14th-century Malfoy commentary answers it in practice — two hearths burn down INTO one, no guarded doors, freely chosen (and what that costs the one who guards) | 18 | 26 | paid ch26 |
+| P23 | **Записная книжка Гарри** — the two-ended notebook opened from the clean end in the Burrow orchard, and Molly's «не знаю, что у тебя за весна такая, но она тебе к лицу» said to the wrong person; the entry is item 2 and it quotes her word back | 8 | 29 | registered P6 |

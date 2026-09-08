@@ -19,13 +19,13 @@
 | 3 Jun | wave 3 (Patronus-messengers); epicentre mapped to 2 May night | 10 |
 | 7 Jun | the manuscript found under Tilly's floorboard; lot-44 guilt bomb | 11 |
 | 10 Jun | Theo's first translation (blessing lines as decoration) | 12 |
-| 13 Jun | Task Force convenes; wave 4 (voices) detonates mid-session | 13 |
+| 13 Jun | Narcissa arrives unannounced with a house-elf; wave 4 (voices) detonates over the compote | 13 |
 | 17 Jun | the burn-the-copy failure | 14 |
-| 21 Jun | nine-night rhythm charted; intervals already shortening | 15 |
+| 21 Jun | the waves charted: the intervals form no series, but the lag before each one is shortening (P11) | 15 |
 | 25 Jun | Open Day at «Крапивный дом»; wave 5 (thoughts aloud) | 16 |
 | Sat 27 Jun | Ron ⚭ Элоиза — the wedding word «кертан» | 17 |
 | 30 Jun | Malfoy library: the mistranslation revealed | 18 |
-| 4 Jul | wave 6 (no lying) begins; the 1997 coinage noticed | 19 |
+| 4 Jul | wave 6 (no lying) begins; the second Sunday nobody has asked about for eleven years; the eleven jars | 19 |
 | 7 Jul | the children cornered; Oscar's defense; the household rule | 20 |
 | 8 Jul | Tilly speaks: «Я неправильно перевела»; the «ты» shift | 21 |
 | 12 Jul | wave 7 (handwriting + owls): Diagon Alley set piece; custody papers invalidated | 22 |

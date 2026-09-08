@@ -25,7 +25,7 @@
   she is likeable when useless (his friends, his mother, his crew prefer the unguarded her,
   ch10–18) → honesty wave: deflects, hates herself, relapses (ch23) → entrusts the affair (ch28)
   and is not left → owed honesty to Ron (ch30) → learns to follow without disappearing: «Веди»,
-  the tango (ch34). **Cost paid:** hands over control publicly — stands in her own hall unable to finish
+  the tango (ch35). **Cost paid:** hands over control publicly — stands in her own hall unable to finish
   a stranger's sentence about who she is, and lets two people from Kent decide her family.
 
 ### Драко Малфой (28; b. 5 Jun 1980) — POV B
@@ -74,7 +74,7 @@
   accidental home (ch10–18) → the waves besiege the secret (ch19–26) → entrusts it expecting the
   end of everything; is read, not judged (ch29) → goes to her kitchen on a day when nothing needs
   mending and unsays it with his own mouth — cost paid BEFORE her grace arrives (ch33) → leads the
-  tango because she asks him to (ch34).
+  tango because she asks him to (ch35).
 
 **Address arc (binding):** «Грейнджер»/«Малфой» + «вы» → the «ты» shift is ONE deliberate beat
 (ch21, over the children's confession); first-name use per grid; his internal voice says
@@ -136,7 +136,7 @@ handkerchief Hermione gave him at first meeting; Tilly — the stolen button.
 - **Пэнси Паркинсон** — fashion house «Шпилька»; tongue like a paper cut; secretly clothes the
   orphanage. Exiting a marriage of convenience; her arc mirrors Hermione: learning to be loved
   un-usefully. Keeps dossiers on everyone; the LAST dossier — «Гермиона Грейнджер», one page,
-  compiled from eleven years of Draco's unprompted remarks, dated and sourced (ch34). Slow spark
+  compiled from eleven years of Draco's unprompted remarks, dated and sourced (ch35). Slow spark
   with Blaise, sealed at the ball.
 - **Теодор Нотт** — antiquarian bookseller («Нотт, и никого больше»); dead-languages pedant,
   socially allergic; the translation's engine. Feud with the anonymous margin-corrector,

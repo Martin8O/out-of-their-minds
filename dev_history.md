@@ -2,6 +2,24 @@
 
 Newest at the top. One entry per finished prompt (wrap-up only).
 
+## 2026-09-08 — P6 · «Руки»: the touch pass, two taste calls, and the book typeset
+
+**17 cartographers + 11 independent readers (9 killed once, all re-run) · ~200 prose edits across 35 chapters · ch15 converted off paper · 35 ch · 108 423 words · gate GREEN, --cards GREEN, --selftest GREEN · EPUB + A5 PDF built (404 pp)**
+
+P5 left four taste calls and a typeset. The first was not a taste call. the commissioning brief binds the book to **20–35 %** proximity and affection; P5 had measured **≈12–13 %**, with inner life at ≈78–82 % against her 60–70 %. The machine number was blunter — **68 contact verbs in 113 989 words, eleven chapters with none at all** — and the diagnosis sharper than either: the book was full of body-part nouns (ладонь ×111, плечо ×76) and nearly empty of contact verbs (косн ×4, прижал ×3, обнял ×4). The bodies were present as objects and never met.
+
+There was no room to add — 107 474 words against a 110 000 ceiling — so the rule was **conversion**: every beat paid for by cutting rumination, restatement or explained emotion in the same scene, which is material §1 already forbids. Both numbers then move at once. Seventeen readers mapped two chapters each, every proposal anchor-verified, every edit through a harness that aborts the whole batch unless each anchor matches exactly once. The book grew **983 words, 0.9 %**; contact verbs **+38 %**, proximity **+31 %**, chapters at zero **6 → 1**.
+
+**Then the pass had to be saved from itself.** Seventeen agents writing blind converged on the same moves: «не отодвинулся / не отступил» went from **one occurrence in the whole book to seventeen**, the «изнутри … снаружи» frame to about fifteen, «my own hand, from outside, turns out to be warm» to thirteen. Every one of those chapters had passed its own review; the finding exists only as a count over the whole book. A ladder audit found the bottom rung flattened as well — by the end of ch09 the leads had already taken a wrist, dressed a burn, sat shoulder to shoulder *for warmth* and left a hand on a shoulder blade, all chapter-11-to-22 moves spent in chapters 4 to 9. Both reversed.
+
+**Nine independent readers were launched and all nine were killed mid-flight by the usage limit, with not one report on disk.** Caught by reconciling the output directory against the launch roster rather than against remembered notifications, and every one re-run. They returned the work's real value: ch34's night still declining where ch32's does not — **and then a second reader catching that my own fix had cut the payoff out with the assertion**; Manchester's night count off by one against a rule stated twenty lines earlier; five adults at a table counted as four twice, on the chapter's most important derivation, with the bible re-seeding the error; a boy who counts faster than anyone getting a deadline wrong in the clause that says so; one elf counted as two; a lamb at the wrong pair of boots; Ron married three weeks earlier and neither chapter noticing; and eight swap-orientation errors, most of them introduced by the pass itself — a hand credited to the wrong owner, a boot pinning its own ankle, a sleeve brushing its own shoulder.
+
+**ch15 failed §0.5 and two independent arbitrations said so** (ADR-024). Its plot turn was a count on a newspaper's footnote table. The four dates now arrive in four people's mouths; the pencil marks on the kitchen doorframe become the instrument rather than the transcript, so the shortening lag **is** four heights above a floor and the fifth mark has nowhere to be but the floor. P11 delivered whole, chapter word-neutral, printed-matter density 7.4 → 1.2. P5 had cleared ch15 because the machine cleared it — fifth-cleanest chapter in the book on §8.5 while being built entirely out of paper. **A green density does not answer §0.5**, and the gate now has a check that says so.
+
+Left undone and named: the three syntactic signatures («собственн-» 206, «ровно» 183, «ни разу» 138, «как + 3pl» 91), which are a sweep and not a kill-list; ch12's §0.5 п. 2 failure, which has one reader behind it where ch15 had two and whose remedy moves how a ledger row is staged; and the P4 observers debt, minus the Patronus joke, which P6 paid.
+
+▶ Run on: **frontier · high** throughout, the ch34 night and the ch15 conversion at the same tier with independent verification. The escalation rule was not needed: no chapter reviewed as not-a-fit.
+
 ## 2026-09-08 — P5 · The final read
 
 **23 reports · 8 chapters read for the first time · ch23 redrafted whole · ~110 prose edits · 35 ch · 107 474 words · gate GREEN, --cards GREEN, --selftest GREEN**

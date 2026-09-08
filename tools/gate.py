@@ -53,6 +53,10 @@ THRESHOLDS = {
     "book_band": (90000, 110000),     # brief: 90-110k words
     "latin_leak_warn": 3,             # non-whitelisted Latin tokens per chapter
     "inst_warn": 3.0,                 # style-guide 0.1: taboo - per 1000 words
+    "pov_metaphor_floor": 20,         # style-guide 0.2: minimum book-wide hits for the
+                                      # POV-parity ratio to mean anything
+    "paper_warn": 4.0,                # style-guide 0.1/8.7: printed-and-written scene
+                                      # substance - per 1000 words; an INDICATOR, not a verdict
     "inst_rewrite": 5.0,              # 0.1: chapter must be rewritten
     "pov_metaphor_gap": 0.40,         # 0.2: min divergence between the two heads
 }
@@ -98,7 +102,7 @@ def parse_guide_lists(text: str) -> dict[str, list[str]]:
 
     Bullet format: `- item` or `- item → replacement` (item = text before →).
     Returns keys: forbidden_lexicon, banned_tics, said_bookisms, latin_whitelist,
-    institutional_lexicon (§0.1), ledger_metaphor (§0.2).
+    institutional_lexicon (§0.1), ledger_metaphor (§0.2), paper_substance (§0.1/§8.7).
     """
     keymap = {
         "8.1": "forbidden_lexicon",
@@ -107,6 +111,7 @@ def parse_guide_lists(text: str) -> dict[str, list[str]]:
         "8.4": "latin_whitelist",
         "8.5": "institutional_lexicon",
         "8.6": "ledger_metaphor",
+        "8.7": "paper_substance",
     }
     lists: dict[str, list[str]] = {v: [] for v in keymap.values()}
     current: str | None = None
@@ -296,6 +301,15 @@ def check_chapter(path_name: str, text: str, guide: dict[str, list[str]],
     elif per1k >= THRESHOLDS["inst_warn"]:
         rep.warn(f"{tag}: institutional density {per1k:.1f}/1000 (style-guide 0.1)")
 
+    # style-guide 8.7: printed-and-written matter as the substance a scene is BUILT from.
+    # Deliberately excludes письмо/книга/дневник/пергамент/«Пророк» - those are furniture.
+    # High density means "run the 0.5.1 removal test by hand", not "rewrite".
+    paper = sum(low.count(k.lower()) for k in guide.get("paper_substance", []))
+    paper1k = paper * 1000.0 / max(1, words)
+    if paper1k >= THRESHOLDS["paper_warn"]:
+        rep.warn(f"{tag}: printed-matter density {paper1k:.1f}/1000 - "
+                 f"run the 0.5.1 removal test by hand (style-guide 8.7)")
+
     for item in guide["forbidden_lexicon"]:
         if item.lower() in low:
             rep.err(f"{tag}: forbidden lexicon '{item}' (Rosman law - see glossary)")
@@ -341,7 +355,11 @@ def check_book(results: list[dict], grid: dict[int, dict[str, str]],
         if sel:
             dens[who] = (sum(r.get("ledger", 0) for r in sel) * 1000.0
                          / sum(r["words"] for r in sel))
-    if len(dens) == 2 and max(dens.values()) > 0:
+    total_hits = sum(r.get("ledger", 0) for r in results)
+    # Below the floor the ratio is noise, not signal: after the P4 scrub the whole
+    # book carries single-digit hits, and a parity test on 4 tokens against 6 fires
+    # BECAUSE the book is clean, which is backwards. Warn only with enough signal.
+    if len(dens) == 2 and max(dens.values()) > 0 and total_hits >= THRESHOLDS["pov_metaphor_floor"]:
         gap = abs(dens["hermione"] - dens["draco"]) / max(dens.values())
         if gap < THRESHOLDS["pov_metaphor_gap"]:
             rep.warn(f"BOOK: the two POVs share one counting instrument - hermione "
@@ -487,6 +505,7 @@ def selftest() -> int:
                                   "досье", "расписк", "накладн", "параграф", "министерств",
                                   "отдел", "заседани"],
         "ledger_metaphor": ["графа", "гроссбух", "опись"],
+        "paper_substance": ["подшив", "вырезк", "типограф"],
     }
     grid = {1: {"title": "Т", "pov": "draco", "date": "2009-05-02", "target": "3000",
                 "plants": "P1", "payoffs": "", "intent": "i", "hook": "h", "status": "planned"}}
@@ -518,6 +537,9 @@ def selftest() -> int:
         fm + prose_ru + ("\nПротокол, ведомость, бланк, реестр, циркуляр, досье, расписка, "
                          "накладная, параграф, министерство, отдел, заседание. " * 3),
         "institutional density")
+    run("printed-matter density (8.7)",
+        fm + prose_ru + (chr(10) + "Подшивка, вырезка, типография. ") * 4,
+        "printed-matter density")
     run("straight quote in prose",
         fm + prose_ru + '\n\nОн прочёл «дар бюро „Наследие"».', "straight quote")
     run("forbidden lexicon", fm + prose_ru + "\nСтарый аврор кивнул.", "forbidden lexicon")
